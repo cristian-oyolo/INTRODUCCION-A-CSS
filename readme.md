@@ -84,4 +84,23 @@ h1 {
  
 <!-- IMPORTANT (infinito) -->
 ```
+# ESTILOS DE TEXTO
+ 
+## PROPIEDADES
+ 
+- color
+- font-size (em,rem,px)
+- font-family (google fonts - fontface)
+- font-weight (peso de tipografia)
+- estilo entre navegadores (normalize.css)
+- text-transform: uppercase | lowercase | capitalize
+- text-align : left | center | right
+- text-decoration : none | underline
+ 
+## SELECTORES
+ 
+- Selector de Etiqueta(1) se usa solo nombrando la etiqueta
+- Selector de Clase(10) se usa con .
+- Selector de ID(100) se usa con #
+- Selector Universal (uso box model) se usa con *
  

@@ -16,3 +16,12 @@ px: Unidad absoluta o unidad de medida
 em: Unidad del ancestro que en automatico es 16, pero sino tambien uno mismo lo puede establecer desde un inicio
 rem: unidad de la etiqueta html
 */
+h1 {
+    color: skyblue;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+    
+}
+.principalTitle {
+    color: peru;
+}
