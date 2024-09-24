@@ -1,17 +1,18 @@
-h1{
-    color:red;
+/* h1 {
+    color: red;
+    font-size: 10px ;
 }
+body {
+    font-size: 10px;
+}
+h1 {
+    color: red;
+    font-size: 4rem;
+} */
 
-p{
-    color:peru;
-}
-
-a{
-    color: inherit
-}
-h1{
-    color:green;
-}
-h1{
-    color: blue !important;
-}
+/* 
+Un px es la unidad de medida para los tamanios
+px: Unidad absoluta o unidad de medida
+em: Unidad del ancestro que en automatico es 16, pero sino tambien uno mismo lo puede establecer desde un inicio
+rem: unidad de la etiqueta html
+*/
